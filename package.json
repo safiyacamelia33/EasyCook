@@ -1,0 +1,17 @@
+{
+  "name": "easycook_fp",
+  "version": "1.0.0",
+  "description": "EasyCook Recipe Dictionary Desktop Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^45.0.0"
+  }
+}
+
